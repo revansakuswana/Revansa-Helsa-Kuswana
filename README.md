@@ -1,1 +1,5 @@
-# Revansa-Helsa-Kuswana
+- 👋 Hi, I’m @revansakuswana
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning c++, python and HTML
+- 💞 I’m looking to collaborate on github
+- 📫 How to reach me revansakuswana@gmail.com
