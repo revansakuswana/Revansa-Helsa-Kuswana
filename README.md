@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Revansa Helsa Kuswana</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revansakuswana&label=Profile%20views&color=0e75b6&style=flat" alt="revansakuswana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revansakuswana" alt="revansakuswana" /></a> </p>
 
-- 🌱 I’m currently learning **c++, Python, HTML, CSS and Javascript**
+- 🌱 I’m currently learning **c++, Python, HTML and CSS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/revansakuswana](https://github.com/revansakuswana)
 
